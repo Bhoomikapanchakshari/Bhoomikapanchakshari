@@ -1,6 +1,6 @@
 ### Hi there 👋, I'am Bhoomika
 # 💫 About Me:
-I'am currently student at UVCE<br>Currently learning arduino<br>All my projects available on https://github.com/Bhoomikapanchakshari<br>Reach me out at bhoomikapanchakshari@gmail.com
+I'am currently student at UVCE<br>All my projects available on https://github.com/Bhoomikapanchakshari<br>Reach me out at bhoomikapanchakshari@gmail.com
 
 
 ## 🌐 Socials:
